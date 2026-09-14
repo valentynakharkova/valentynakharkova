@@ -9,7 +9,7 @@ I'm an aspiring iOS developer focused on building modern, clean, and user-friend
 ### 🛠 Tech Stack & Tools
 - **Languages:** Swift
 - **UI Frameworks:** SwiftUI, UIKit, UIViewRepresentable
-- **Data & Persistence:** SwiftData, CoreData, UserDefaults
+- **Data & Persistence:** SwiftData, UserDefaults
 - **Networking & API:** URLSession, Async/Await, Codable, REST APIs
 - **Architecture:** MVVM
 - **Tools:** Xcode, Git, GitHub, GitKraken
@@ -19,17 +19,17 @@ I'm an aspiring iOS developer focused on building modern, clean, and user-friend
 
 ### 🚀 Projects
 Here are some of the main projects I've been working on:
-- 🌤 **WeatherApp**	- Multi-city weather app with 3-hour and 5-day forecasts, dynamic backgrounds and °C/°F toggle. 
-   - **Tech:**	SwiftUI, REST API, MVVM, Combine.
-- 📝 **NotesApp**	- Full-featured notes app with rich text editor, folders, pinning, search and Recently Deleted. 
-   - **Tech:**	SwiftUI, SwiftData, UIKit, MVVM, Combine.
-- 🗺 **TravelPlanner** - Travel organisation app with interactive maps, photo galleries and trip management. 
-   - **Tech:**	SwiftUI, MapKit, CoreLocation, SwiftData, EventKit, PhotosUI.
+- 🌤 **WeatherApp**	- Multi-city weather app with 3-hour and 5-day forecasts, dynamic backgrounds and °C/°F toggle 
+   - **Tech:**	SwiftUI, REST API, MVVM, Combine
+- 📝 **NotesApp**	- Full-featured notes app with rich text editor, folders, pinning, search and Recently Deleted 
+   - **Tech:**	SwiftUI, SwiftData, UIKit, MVVM, Combine
+- 🗺 **TravelPlanner** - Travel organisation app with interactive maps, photo galleries and trip management 
+   - **Tech:**	SwiftUI, MapKit, CoreLocation, SwiftData, EventKit, PhotosUI
 
 ---
 
 ### 🌐 Let's Connect
-- **LinkedIn:** - https://www.linkedin.com/in/valentyna-kharkova/
-- **Djinni:** - https://djinni.co/q/5738b518fd/
-- **Linktree** - https://linktr.ee/valentynakharkova
-- **Location:** - Ukraine 🇺🇦
+- **LinkedIn:** https://www.linkedin.com/in/valentyna-kharkova/
+- **Djinni:** https://djinni.co/q/5738b518fd/
+- **Linktree** https://linktr.ee/valentynakharkova
+- **Location:** Ukraine 🇺🇦
