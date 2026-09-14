@@ -29,7 +29,7 @@ Here are some of the main projects I've been working on:
 ---
 
 ### 🌐 Let's Connect
-- **LinkedIn:**https://www.linkedin.com/in/valentyna-kharkova/
-- **Djinni:**https://djinni.co/q/5738b518fd/
-- **Linktree**https://linktr.ee/valentynakharkova
+- **LinkedIn: [Valentyna Kharkova]**https://www.linkedin.com/in/valentyna-kharkova/
+- **Djinni: [Valentyna Kharkova]**https://djinni.co/q/5738b518fd/
+- **Linktree** [Valentyna Kharkova]https://linktr.ee/valentynakharkova
 - **Location:** Ukraine 🇺🇦
